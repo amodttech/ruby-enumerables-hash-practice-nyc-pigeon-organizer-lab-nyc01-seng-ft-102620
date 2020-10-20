@@ -17,5 +17,4 @@ def nyc_pigeon_organizer(data)
     end
     final_array[k] = v
   end
-binding.pry 
 end
